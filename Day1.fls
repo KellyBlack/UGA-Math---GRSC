@@ -309,14 +309,3 @@ INPUT ./pic3.png
 INPUT fig4.png
 INPUT ./fig4.png
 INPUT ./fig4.png
-OUTPUT Day1.nav
-OUTPUT Day1.toc
-OUTPUT Day1.snm
-INPUT Day1.aux
-INPUT ./Day1.out
-INPUT ./Day1.out
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb

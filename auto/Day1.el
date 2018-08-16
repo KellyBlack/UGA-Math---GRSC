@@ -14,6 +14,7 @@
     "beamer"
     "beamer10"
     "graphicx"
-    "amsmath"))
+    "amsmath"
+    "url"))
  :latex)
 
