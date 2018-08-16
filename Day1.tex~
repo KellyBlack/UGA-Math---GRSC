@@ -1,0 +1,18 @@
+\documentclass{beamer}
+\usepackage{graphicx, amsmath}
+
+\title{GRSC 7770 Graduate Seminar}
+\author{William E. Olsen}
+\date{\today}
+
+\begin{document}
+\frame{\titlepage}
+
+\begin{frame}
+  
+\end{frame}
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
