@@ -1,2 +1,5 @@
 
 * This is my org file for GRSC 2018.
+
+* TODO Email Malcom Adams and Sybilla Beckman
+I want to teach GRSC 7770 students about teaching models (classroom models?) Like BOPPS.  Do either Malcom or Sybilla know (university) people who could give a lecture on that kind of thing?
