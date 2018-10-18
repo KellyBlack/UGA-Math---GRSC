@@ -1,0 +1,36 @@
+\lecture{3}{17 August 2018}
+
+\begin{remark}
+  Torus knot exteriors  admit $2$ geometries:
+  \begin{enumerate}
+  \item $\mathbb{H}^{2} \times \R$
+  \item $\widetilde{SL}_{2}$.
+  \end{enumerate}
+\end{remark}
+
+\begin{theorem}
+  The unknot admits no non-trivial companions; i.e., if $P(K) = U \Longrightarrow K = U$.
+\end{theorem}
+
+\begin{proof}
+  It's a proof by cases.
+\end{proof}
+
+\begin{corollary}
+  If $U = K_{1} \# K_{2}$, then $K_{1} = K_{2} = U$.
+\end{corollary}
+
+\section{Morse theory}
+\label{sec:morse-theory}
+
+\begin{definition}
+  A \emph{Morse function} on a smooth manifold $M^{n}$ is a smooth map
+  \[
+    f: M \to \R
+  \]
+  such that for every critical point $p \in M$, there exists a chart.
+\end{definition}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: "../../trisection-notes"
+%%% End:

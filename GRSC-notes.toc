@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Overview}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Pedagogy}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Concrete outcomes}{3}{subsection.1.2}
+\contentsline {section}{\numberline {2}A Call to Action}{3}{section.2}
+\contentsline {section}{\numberline {3}Teaching Models}{3}{section.3}
