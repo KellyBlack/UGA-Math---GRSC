@@ -13,14 +13,8 @@
     "amsthm"
     "amssymb"
     "geometry"
-    "bbm"
     "wrapfig"
     "graphicx")
-   (TeX-add-symbols
-    "R"
-    "N"
-    "Q"
-    "one")
    (LaTeX-add-amsthm-newtheorems
     "definition"
     "exercise"

@@ -65,7 +65,7 @@ morekeywords={__global__, __device__},  % CUDA specific keywords
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 \begin{center}
-{\Large \textsc{GRSC 7770 Graduate Seminar}}
+{\Large \textsc{GRSC 7770 Graduate Teaching Seminar}}
 \end{center}
 \begin{center}
 Fall 2018
@@ -139,8 +139,14 @@ To comply with the Family Educational Rights and Privacy Act (FERPA), all commun
 
 \vskip.15in
 \noindent\textbf{Disabilities:}
-I am happy to accommodate any documented disabilities.  If you are eligible for accommodation please contact me early in the semester with proper documentation from Disability Services.  Contact Disability Services (542-8710) about requesting accommodations. 
-%%%%%% THE END 
+I am happy to accommodate any documented disabilities.  If you are eligible for accommodation please contact me early in the semester with proper documentation from Disability Services.  Contact Disability Services (542-8710) about requesting accommodations.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics{SyllabusCalendar.pdf}
+\end{figure}
+
+
 \end{document} 
               
 %%% Local Variables:

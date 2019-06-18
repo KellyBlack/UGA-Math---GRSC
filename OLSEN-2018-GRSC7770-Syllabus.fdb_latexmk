@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1534416120 "OLSEN-2018-GRSC7770-Syllabus.tex" "OLSEN-2018-GRSC7770-Syllabus.pdf" "OLSEN-2018-GRSC7770-Syllabus" 1534416123
+["pdflatex"] 1560898971 "OLSEN-2018-GRSC7770-Syllabus.tex" "OLSEN-2018-GRSC7770-Syllabus.pdf" "OLSEN-2018-GRSC7770-Syllabus" 1560898972
   "/usr/local/texlive/2014/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -15,6 +15,8 @@
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
+  "/usr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb" 1164221255 36737 6946087c3bf3ef810605d9989b3e7a11 ""
+  "/usr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb" 1164221255 36507 bc28f9f0cdba50a8a348a6e4dc8a5378 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1248133631 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
@@ -22,6 +24,7 @@
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1248133631 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1248133631 31099 c85edf1dd5b9e826d67c9c7293b6786c ""
+  "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb" 1136849748 22192 22800790ceca09b5f3b0be051c1e852e ""
   "/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty" 1335995445 7612 c47308d923ec19888707b0f1792b326a ""
@@ -82,11 +85,12 @@
   "/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1401025944 1445653 26a0aacf3d70032b1ec192e8c7792117 ""
   "/usr/local/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt" 1401025990 3832012 904d82bdcc8abf2b1cd296990b82553b ""
   "/usr/local/texlive/2014/texmf.cnf" 1401025936 577 a59edbde8d3a8c549d0eeaab1739e2ff ""
-  "OLSEN-2018-GRSC7770-Syllabus.aux" 1534416123 773 5123387808cb90630a61dcfd5feec24e ""
-  "OLSEN-2018-GRSC7770-Syllabus.out" 1534416122 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "OLSEN-2018-GRSC7770-Syllabus.tex" 1534416120 6998 2fae810d0c6370e0f1e56985d084a70c ""
+  "OLSEN-2018-GRSC7770-Syllabus.aux" 1560898972 773 7889b52d04886259f8048425693bb780 ""
+  "OLSEN-2018-GRSC7770-Syllabus.out" 1560898972 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "OLSEN-2018-GRSC7770-Syllabus.tex" 1560898971 7078 1971ea9d5cb0f0b920636e66b885c98d ""
+  "SyllabusCalendar.pdf" 1560897888 35385 7d09dc563642a62c741e724cb590b6d0 ""
   (generated)
   "OLSEN-2018-GRSC7770-Syllabus.aux"
+  "OLSEN-2018-GRSC7770-Syllabus.pdf"
   "OLSEN-2018-GRSC7770-Syllabus.out"
   "OLSEN-2018-GRSC7770-Syllabus.log"
-  "OLSEN-2018-GRSC7770-Syllabus.pdf"
