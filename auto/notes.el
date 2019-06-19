@@ -4,7 +4,7 @@
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "titlepage")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("hyperref" "colorlinks=true") ("caption" "labelfont=bf")))
+                     '(("caption" "labelfont=bf")))
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")

@@ -24,7 +24,7 @@
 \def\filedate{2016/08/10}
 
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
-\ProvidesClass{notes}[\filedate\space Version \fileversion\space by David Mehrle]
+\ProvidesClass{notes}[\filedate\space Version \fileversion\space by William E. Olsen]
 
 \RequirePackage{ifthen}
 
@@ -129,8 +129,11 @@
 \else
 \fi
 
-
-\RequirePackage[colorlinks=true]{hyperref}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks = true,
+    linkcolor = magenta
+}
 
 %% --------------------------------------------------------------
 %% ---------------------- HACKS AND FIXES -----------------------

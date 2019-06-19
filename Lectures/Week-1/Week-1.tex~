@@ -1,0 +1,21 @@
+
+\section{Week 1}
+\label{sec:week-1}
+
+Congratulations!  You've been chosen to teach GRSC 7770!  Hopefully this guide will serve you well.  Of course, feel free to upgrade it to your liking.
+
+\subsection{Covering the syllabus}
+\label{sec:covering-syllabus}
+
+You should cover the syllabus on the first day.  Important features of the course are:
+\begin{itemize}
+\item Attendance is mandatory.
+\item You are expected to complete all assignments.  Late assignments will not be accepted and will count as an absence.
+\item The textbook is free online.
+\end{itemize}
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: "../../GRSC-notes"
+%%% End:
