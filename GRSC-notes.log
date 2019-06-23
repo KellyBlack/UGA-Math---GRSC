@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  18 JUN 2019 20:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  22 JUN 2019 10:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -536,12 +536,12 @@ l.51 \cleardoublepage
  [2
 
 ] (./Lectures/Week-1/Week-1.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
 )
 (./Lectures/Week-2/Week-2.tex) (./Lectures/Week-3/Week-3.tex)
 (./Lectures/Week-4/Week-4.tex)
@@ -559,9 +559,9 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  )
 (\end occurred when \iftrue on line 48 was incomplete) 
 Here is how much of TeX's memory you used:
- 9639 strings out of 493117
- 147268 string characters out of 6135433
- 269869 words of memory out of 5000000
+ 9642 strings out of 493117
+ 147286 string characters out of 6135433
+ 270869 words of memory out of 5000000
  12939 multiletter control sequences out of 15000+600000
  12254 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -572,10 +572,10 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2014/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on GRSC-notes.pdf (4 pages, 73503 bytes).
+Output written on GRSC-notes.pdf (4 pages, 73694 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 19 named destinations out of 1000 (max. 500000)
  10849 words of extra memory for PDF output out of 12000 (max. 10000000)
 
