@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1560899373 "SyllabusCalendar.tex" "SyllabusCalendar.pdf" "SyllabusCalendar" 1560899375
-  "/dev/null" 1560899375 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1561296489 "SyllabusCalendar.tex" "SyllabusCalendar.pdf" "SyllabusCalendar" 1561296491
+  "/dev/null" 1561296488 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2014/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1136768653 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
@@ -54,9 +54,9 @@
   "/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1401025944 1445653 26a0aacf3d70032b1ec192e8c7792117 ""
   "/usr/local/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt" 1401025990 3832012 904d82bdcc8abf2b1cd296990b82553b ""
   "/usr/local/texlive/2014/texmf.cnf" 1401025936 577 a59edbde8d3a8c549d0eeaab1739e2ff ""
-  "SyllabusCalendar.aux" 1560899375 8 a94a2480d3289e625eea47cd1b285758 ""
-  "SyllabusCalendar.tex" 1560897887 2796 1e2f44426a88b3fb3407377e45b3ca01 ""
+  "SyllabusCalendar.aux" 1561296491 8 a94a2480d3289e625eea47cd1b285758 ""
+  "SyllabusCalendar.tex" 1561296486 2798 c77e4785578d6c23f81c24f869fd0a13 ""
   (generated)
-  "SyllabusCalendar.log"
   "SyllabusCalendar.aux"
   "SyllabusCalendar.pdf"
+  "SyllabusCalendar.log"
