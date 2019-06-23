@@ -1,33 +1,47 @@
-\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
-\contentsline {subsection}{\numberline {1.1}Daily discussions}{3}{subsection.1.1}
-\contentsline {section}{\numberline {2}Week 1}{4}{section.2}
-\contentsline {subsection}{\numberline {2.1}Preparing for your first day as GRSC instructor}{4}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Introduction to GRSC 7770}{4}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Covering the syllabus}{4}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Data driven teaching strategies}{4}{subsection.2.4}
-\contentsline {section}{\numberline {3}Week 2}{5}{section.3}
-\contentsline {subsection}{\numberline {3.1}Discussion: A declaration of values}{5}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}How to write a syllabus}{5}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Key functions and components of a syllabus}{5}{subsection.3.3}
-\contentsline {section}{\numberline {4}Week 3}{6}{section.4}
-\contentsline {section}{\numberline {5}Week 4}{7}{section.5}
-\contentsline {subsection}{\numberline {5.1}Grading the syllabus}{7}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Discussion: Introduction to active learning}{7}{subsection.5.2}
-\contentsline {section}{\numberline {6}Week 5}{9}{section.6}
-\contentsline {subsection}{\numberline {6.1}Problem solving in STEM}{9}{subsection.6.1}
-\contentsline {subsubsection}{\numberline {6.1.1}How do I decide which problems to cover in section or class?}{9}{subsubsection.6.1.1}
-\contentsline {subsubsection}{\numberline {6.1.2}You have given your class some problems to solve}{9}{subsubsection.6.1.2}
-\contentsline {subsection}{\numberline {6.2}When do you want students to work in groups to solve problems?}{9}{subsection.6.2}
-\contentsline {section}{\numberline {7}Week 6}{10}{section.7}
-\contentsline {section}{\numberline {8}Week 7}{11}{section.8}
-\contentsline {section}{\numberline {9}Week 8}{12}{section.9}
-\contentsline {subsection}{\numberline {9.1}Discussion: Making the grade}{12}{subsection.9.1}
-\contentsline {subsection}{\numberline {9.2}Activity}{12}{subsection.9.2}
-\contentsline {subsection}{\numberline {9.3}Some general principles of responding to student work}{12}{subsection.9.3}
-\contentsline {section}{\numberline {10}Week 9}{14}{section.10}
-\contentsline {section}{\numberline {11}Week 10}{15}{section.11}
-\contentsline {section}{\numberline {12}Week 11}{16}{section.12}
-\contentsline {section}{\numberline {13}Week 12}{17}{section.13}
-\contentsline {section}{\numberline {14}Week 13}{18}{section.14}
-\contentsline {section}{\numberline {15}Week 14}{19}{section.15}
-\contentsline {section}{\numberline {16}Week 15}{20}{section.16}
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Daily discussions}{4}{subsection.1.1}
+\contentsline {section}{\numberline {2}Week 1}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Preparing for your first day as GRSC instructor}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Introduction to GRSC 7770}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Covering the syllabus}{5}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Data driven teaching strategies}{5}{subsection.2.4}
+\contentsline {section}{\numberline {3}Week 2}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Discussion: A declaration of values}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}How to write a syllabus}{6}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Key functions and components of a syllabus}{6}{subsection.3.3}
+\contentsline {section}{\numberline {4}Week 3}{7}{section.4}
+\contentsline {section}{\numberline {5}Week 4}{8}{section.5}
+\contentsline {subsection}{\numberline {5.1}Grading the syllabus}{8}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Discussion: Introduction to active learning}{8}{subsection.5.2}
+\contentsline {section}{\numberline {6}Week 5}{10}{section.6}
+\contentsline {subsection}{\numberline {6.1}Problem solving in STEM}{10}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}How do I decide which problems to cover in section or class?}{10}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.2}You have given your class some problems to solve}{10}{subsubsection.6.1.2}
+\contentsline {subsection}{\numberline {6.2}When do you want students to work in groups to solve problems?}{10}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}What are some benefits of having students work in groups?}{10}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}What are some strategies for helping students to form groups?}{11}{subsection.6.4}
+\contentsline {section}{\numberline {7}Week 6}{12}{section.7}
+\contentsline {subsection}{\numberline {7.1}What should you do while your students are working on problems?}{12}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}After students work on a problem during class, what are strategies to have them share their answers and their thinking?}{12}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}What happens if a student gives a wrong answer?}{12}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}A few final notes}{13}{subsection.7.4}
+\contentsline {section}{\numberline {8}Week 7}{14}{section.8}
+\contentsline {section}{\numberline {9}Week 8}{15}{section.9}
+\contentsline {subsection}{\numberline {9.1}Discussion: Making the grade}{15}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Activity}{15}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}Some general principles of responding to student work}{15}{subsection.9.3}
+\contentsline {section}{\numberline {10}Week 9}{17}{section.10}
+\contentsline {section}{\numberline {11}Week 10}{18}{section.11}
+\contentsline {section}{\numberline {12}Week 11}{19}{section.12}
+\contentsline {section}{\numberline {13}Week 12}{20}{section.13}
+\contentsline {section}{\numberline {14}Week 13}{21}{section.14}
+\contentsline {subsection}{\numberline {14.1}Inclusive course design}{21}{subsection.14.1}
+\contentsline {subsection}{\numberline {14.2}Plan to access early and often}{21}{subsection.14.2}
+\contentsline {subsection}{\numberline {14.3}Plan to vary teaching strategies}{21}{subsection.14.3}
+\contentsline {subsection}{\numberline {14.4}Allow students to demonstrate their learning in various ways, when possible}{21}{subsection.14.4}
+\contentsline {section}{\numberline {15}Week 14}{22}{section.15}
+\contentsline {subsection}{\numberline {15.1}Inclusive moves}{22}{subsection.15.1}
+\contentsline {subsection}{\numberline {15.2}Set the tone on your first day}{22}{subsection.15.2}
+\contentsline {subsection}{\numberline {15.3}Get to know your students}{22}{subsection.15.3}
+\contentsline {subsection}{\numberline {15.4}Build rapport among the group}{22}{subsection.15.4}
+\contentsline {section}{\numberline {16}Week 15}{23}{section.16}

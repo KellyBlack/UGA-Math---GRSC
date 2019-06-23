@@ -13,6 +13,8 @@
     "sec:problem-solving-stem"
     "sec:how-do-i"
     "sec:you-have-given"
-    "sec:when-do-you"))
+    "sec:when-do-you"
+    "sec:what-are-some"
+    "sec:what-are-some-1"))
  :latex)
 
