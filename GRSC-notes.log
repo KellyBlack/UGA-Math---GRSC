@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  23 JUN 2019 11:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  23 JUN 2019 12:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -524,7 +524,7 @@ LaTeX Warning: No \author given.
 ame{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 ...}{\numberline {15}Week 14}{22}{section.15}
+l.43 ...lusive course design}{22}{subsection.14.1}
                                                    [1])
 \tf@toc=\write4
 \openout4 = `GRSC-notes.toc'.
@@ -687,8 +687,64 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
  [15])
 [16] (./Lectures/Week-9/Week-9.tex) [17] (./Lectures/Week-10/Week-10.tex)
-[18] (./Lectures/Week-11/Week-11.tex) [19] (./Lectures/Week-12/Week-12.tex)
-[20] (./Lectures/Week-13/Week-13.tex
+[18] (./Lectures/Week-11/Week-11.tex) [19] (./Lectures/Week-12/Week-12.tex
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+
+[20]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+) [21] (./Lectures/Week-13/Week-13.tex
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -722,7 +778,8 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-) [21] (./Lectures/Week-14/Week-14.tex
+) [22]
+(./Lectures/Week-14/Week-14.tex
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -756,27 +813,27 @@ Missing character: There is no ” in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-)
-[22] (./Lectures/Week-15/Week-15.tex)
+) [23] (./Lectures/Week-15/Week-15.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
- [23]
+ [24]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
- (./GRSC-notes.aux)
+
+(./GRSC-notes.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
 Package rerunfilecheck Info: File `GRSC-notes.out' has not changed.
-(rerunfilecheck)             Checksum: 32EDFEBF71BC2D61370841843D325EF7;3477.
+(rerunfilecheck)             Checksum: 1F6D186086AA5C86DDD67FC6621FB17F;3928.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  )
 (\end occurred when \iftrue on line 48 was incomplete) 
 Here is how much of TeX's memory you used:
- 9895 strings out of 493117
- 150649 string characters out of 6135433
- 277015 words of memory out of 5000000
- 13014 multiletter control sequences out of 15000+600000
- 14858 words of font info for 93 fonts, out of 8000000 for 9000
+ 9917 strings out of 493117
+ 150963 string characters out of 6135433
+ 278380 words of memory out of 5000000
+ 13024 multiletter control sequences out of 15000+600000
+ 14909 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,7n,40p,1432b,405s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,7n,40p,1536b,405s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2014/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/te
@@ -785,10 +842,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2014/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on GRSC-notes.pdf (24 pages, 145055 bytes).
+Output written on GRSC-notes.pdf (25 pages, 153918 bytes).
 PDF statistics:
- 398 PDF objects out of 1000 (max. 8388607)
- 361 compressed objects within 4 object streams
- 75 named destinations out of 1000 (max. 500000)
- 13689 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 434 PDF objects out of 1000 (max. 8388607)
+ 396 compressed objects within 4 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 13729 words of extra memory for PDF output out of 14400 (max. 10000000)
 

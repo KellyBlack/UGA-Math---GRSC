@@ -31,17 +31,22 @@
 \contentsline {subsection}{\numberline {9.2}Activity}{15}{subsection.9.2}
 \contentsline {subsection}{\numberline {9.3}Some general principles of responding to student work}{15}{subsection.9.3}
 \contentsline {section}{\numberline {10}Week 9}{17}{section.10}
+\contentsline {subsection}{\numberline {10.1}Establish clear guidelines for the course grade}{17}{subsection.10.1}
 \contentsline {section}{\numberline {11}Week 10}{18}{section.11}
 \contentsline {section}{\numberline {12}Week 11}{19}{section.12}
+\contentsline {subsection}{\numberline {12.1}Evaluating your teaching}{19}{subsection.12.1}
+\contentsline {subsection}{\numberline {12.2}Questions to consider when reviewing your evaluations}{19}{subsection.12.2}
+\contentsline {subsection}{\numberline {12.3}The four horsemen of the teaching apocalypse}{19}{subsection.12.3}
 \contentsline {section}{\numberline {13}Week 12}{20}{section.13}
-\contentsline {section}{\numberline {14}Week 13}{21}{section.14}
-\contentsline {subsection}{\numberline {14.1}Inclusive course design}{21}{subsection.14.1}
-\contentsline {subsection}{\numberline {14.2}Plan to access early and often}{21}{subsection.14.2}
-\contentsline {subsection}{\numberline {14.3}Plan to vary teaching strategies}{21}{subsection.14.3}
-\contentsline {subsection}{\numberline {14.4}Allow students to demonstrate their learning in various ways, when possible}{21}{subsection.14.4}
-\contentsline {section}{\numberline {15}Week 14}{22}{section.15}
-\contentsline {subsection}{\numberline {15.1}Inclusive moves}{22}{subsection.15.1}
-\contentsline {subsection}{\numberline {15.2}Set the tone on your first day}{22}{subsection.15.2}
-\contentsline {subsection}{\numberline {15.3}Get to know your students}{22}{subsection.15.3}
-\contentsline {subsection}{\numberline {15.4}Build rapport among the group}{22}{subsection.15.4}
-\contentsline {section}{\numberline {16}Week 15}{23}{section.16}
+\contentsline {subsection}{\numberline {13.1}Learner-centered design}{20}{subsection.13.1}
+\contentsline {section}{\numberline {14}Week 13}{22}{section.14}
+\contentsline {subsection}{\numberline {14.1}Inclusive course design}{22}{subsection.14.1}
+\contentsline {subsection}{\numberline {14.2}Plan to access early and often}{22}{subsection.14.2}
+\contentsline {subsection}{\numberline {14.3}Plan to vary teaching strategies}{22}{subsection.14.3}
+\contentsline {subsection}{\numberline {14.4}Allow students to demonstrate their learning in various ways, when possible}{22}{subsection.14.4}
+\contentsline {section}{\numberline {15}Week 14}{23}{section.15}
+\contentsline {subsection}{\numberline {15.1}Inclusive moves}{23}{subsection.15.1}
+\contentsline {subsection}{\numberline {15.2}Set the tone on your first day}{23}{subsection.15.2}
+\contentsline {subsection}{\numberline {15.3}Get to know your students}{23}{subsection.15.3}
+\contentsline {subsection}{\numberline {15.4}Build rapport among the group}{23}{subsection.15.4}
+\contentsline {section}{\numberline {16}Week 15}{24}{section.16}
