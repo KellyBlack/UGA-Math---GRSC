@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1561388810 "SyllabusCalendar.tex" "SyllabusCalendar.pdf" "SyllabusCalendar" 1561388813
-  "/dev/null" 1561388805 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1561408871 "SyllabusCalendar.tex" "SyllabusCalendar.pdf" "SyllabusCalendar" 1561408873
+  "/dev/null" 1561408870 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2014/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1136768653 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
@@ -16,14 +16,12 @@
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/fourier/futmii.tfm" 1136768653 4268 369df562297bf2e301343889d3c1c433 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/fourier/futr8r.tfm" 1136768653 1624 538d715a58a983dc183e18316ca72926 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm" 1136768653 16984 6d4d92d3efaef5cab6a470d5d5548d56 ""
-  "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/fourier/futrc8t.tfm" 1136768653 26092 182e5050cf835115f1b6eb9b94c009ee ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/fourier/futsy.tfm" 1136768653 2072 49145300fcadcc756b7349fc6e6c8913 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb" 1164221255 36737 6946087c3bf3ef810605d9989b3e7a11 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb" 1164221255 36507 bc28f9f0cdba50a8a348a6e4dc8a5378 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb" 1136849748 22192 22800790ceca09b5f3b0be051c1e852e ""
   "/usr/local/texlive/2014/texmf-dist/fonts/vf/public/fourier/futb8t.vf" 1136768653 2168 d2ac693e07cd79dbc2b914caee3e8df0 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/vf/public/fourier/futr8t.vf" 1136768653 2168 e13210e675696694c4e23c8405ebd134 ""
-  "/usr/local/texlive/2014/texmf-dist/fonts/vf/public/fourier/futrc8t.vf" 1136768653 3544 7e517f82a1ea2008996633b01973df28 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/vf/public/fourier/futsy.vf" 1136768653 1244 1f4b25246745a5efc1d2ad7087b5a9e9 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty" 1303254447 7324 11d14f318d865f420e692d4e6c9c18c3 ""
@@ -54,9 +52,9 @@
   "/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1401025944 1445653 26a0aacf3d70032b1ec192e8c7792117 ""
   "/usr/local/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt" 1401025990 3832012 904d82bdcc8abf2b1cd296990b82553b ""
   "/usr/local/texlive/2014/texmf.cnf" 1401025936 577 a59edbde8d3a8c549d0eeaab1739e2ff ""
-  "SyllabusCalendar.aux" 1561388813 8 a94a2480d3289e625eea47cd1b285758 ""
-  "SyllabusCalendar.tex" 1561388808 2782 7ef4aff966949726fbdb4230f5dbbba9 ""
+  "SyllabusCalendar.aux" 1561408873 8 a94a2480d3289e625eea47cd1b285758 ""
+  "SyllabusCalendar.tex" 1561408863 2885 897241e15b6378157c43a071764977ca ""
   (generated)
-  "SyllabusCalendar.aux"
   "SyllabusCalendar.pdf"
   "SyllabusCalendar.log"
+  "SyllabusCalendar.aux"
