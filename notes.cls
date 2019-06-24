@@ -120,8 +120,7 @@
   \headrule
   \setfoot{}{\thepage}{}
   \sethead{%
-  	\thelecture: \ifthenelse{\equal{\subsectiontitle}{}}%
-		{\sectiontitle}{\subsectiontitle}}%
+  	\sectiontitle{}}%
 	{}%
 	{\thelecturedate}
 }

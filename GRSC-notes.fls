@@ -155,11 +155,6 @@ INPUT /usr/local/texlive/2014/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm1
 INPUT /usr/local/texlive/2014/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/local/texlive/2014/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 OUTPUT GRSC-notes.toc
-INPUT /usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT GRSC-notes.lec
-INPUT GRSC-notes.lec
-OUTPUT GRSC-notes.lec
 INPUT Lectures/Week-0/Week-0.tex
 INPUT Lectures/Week-0/Week-0.tex
 INPUT /usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
