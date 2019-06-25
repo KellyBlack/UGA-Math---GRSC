@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  24 JUN 2019 16:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  25 JUN 2019 08:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -376,20 +376,20 @@ Package amsthm Warning: Unknown theoremstyle `theorem' on input line 27.
 (./GRSC-notes.aux)
 \openout1 = `GRSC-notes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 \AtBeginShipoutBox=\box29
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
@@ -400,7 +400,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 137.
 )
-Package hyperref Info: Link coloring ON on input line 46.
+Package hyperref Info: Link coloring ON on input line 48.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -410,9 +410,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count128
 )
-LaTeX Info: Redefining \ref on input line 46.
-LaTeX Info: Redefining \pageref on input line 46.
-LaTeX Info: Redefining \nameref on input line 46.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
 
 (./GRSC-notes.out) (./GRSC-notes.out)
 \@outlinefile=\write3
@@ -421,7 +421,7 @@ LaTeX Info: Redefining \nameref on input line 46.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 46.
+LaTeX Info: Redefining \microtypecontext on input line 48.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -498,7 +498,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for U+msa on input line 48.
+LaTeX Font Info:    Try loading font information for U+msa on input line 50.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -506,7 +506,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 48.
+LaTeX Font Info:    Try loading font information for U+msb on input line 50.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -524,20 +524,20 @@ LaTeX Warning: No \author given.
 ame{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 ... teaching apocalypse}{20}{subsection.12.3}
+l.44 ...ing your evaluations}{20}{subsection.12.2}
                                                    [1])
 \tf@toc=\write4
 \openout4 = `GRSC-notes.toc'.
 
  [2]
 (./Lectures/Week-0/Week-0.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 39.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 48.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
  [3
 
 ]) [4]
@@ -808,24 +808,24 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 ) [24] (./Lectures/Week-15/Week-15.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 123.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 125.
  [25]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 125.
 
 (./GRSC-notes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 123.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 123.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 125.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 125.
 Package rerunfilecheck Info: File `GRSC-notes.out' has not changed.
-(rerunfilecheck)             Checksum: 7E3F61A1AF2C9F06514B5C81354CA77F;4352.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 123.
+(rerunfilecheck)             Checksum: 7299E6888355956373C5FE7165CD3F93;4430.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 125.
  )
-(\end occurred when \iftrue on line 48 was incomplete) 
+(\end occurred when \iftrue on line 50 was incomplete) 
 Here is how much of TeX's memory you used:
- 9940 strings out of 493117
- 151255 string characters out of 6135433
- 278829 words of memory out of 5000000
- 13032 multiletter control sequences out of 15000+600000
- 14627 words of font info for 95 fonts, out of 8000000 for 9000
+ 9943 strings out of 493117
+ 151314 string characters out of 6135433
+ 278905 words of memory out of 5000000
+ 13036 multiletter control sequences out of 15000+600000
+ 14519 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,7n,40p,1536b,403s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/
@@ -836,10 +836,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2014/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on GRSC-notes.pdf (26 pages, 166266 bytes).
+Output written on GRSC-notes.pdf (26 pages, 170553 bytes).
 PDF statistics:
- 480 PDF objects out of 1000 (max. 8388607)
- 440 compressed objects within 5 object streams
- 97 named destinations out of 1000 (max. 500000)
- 12745 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 485 PDF objects out of 1000 (max. 8388607)
+ 445 compressed objects within 5 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 12753 words of extra memory for PDF output out of 14400 (max. 10000000)
 

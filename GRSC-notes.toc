@@ -1,9 +1,10 @@
 \contentsline {section}{\numberline {1}Introduction}{3}{section.1}
 \contentsline {subsection}{\numberline {1.1}Structure and philosophy of GRSC 7770}{3}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}The nitty gritty of a day in GRSC 7770}{3}{subsection.1.2}
-\contentsline {subsubsection}{\numberline {1.2.1}Daily discussions}{3}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.1}Daily discussions}{4}{subsubsection.1.2.1}
 \contentsline {subsubsection}{\numberline {1.2.2}Guest speakers}{4}{subsubsection.1.2.2}
 \contentsline {subsection}{\numberline {1.3}Preparing for your first day}{4}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}What this guide is and isn't}{4}{subsection.1.4}
 \contentsline {section}{\numberline {2}Week 1}{5}{section.2}
 \contentsline {subsection}{\numberline {2.1}Introduction to GRSC 7770}{5}{subsection.2.1}
 \contentsline {subsubsection}{\numberline {2.1.1}Other resources for building rapport with students}{5}{subsubsection.2.1.1}

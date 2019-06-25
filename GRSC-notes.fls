@@ -158,8 +158,8 @@ OUTPUT GRSC-notes.toc
 INPUT Lectures/Week-0/Week-0.tex
 INPUT Lectures/Week-0/Week-0.tex
 INPUT /usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 INPUT Lectures/Week-1/Week-1.tex
