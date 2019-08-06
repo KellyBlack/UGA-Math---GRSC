@@ -1,2 +1,4 @@
-# GRSC-2018
-I'm teaching GRSC 7770 in Fall 2018.  This is my repository.
+# GRSC 7770
+Supporting materials and course details for GRSC-7770 sponsored by the Department of Mathematics, University of Georgia.
+
+
